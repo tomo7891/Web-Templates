@@ -3,3 +3,9 @@ Disallow: /media/
 Disallow: /drafts/
 Disallow: /search/
 Disallow: /edit/
+
+User-agent: archive.org_bot
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap:
